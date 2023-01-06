@@ -1,0 +1,6 @@
+[submodule "dependencies/ShitRenderer"]
+	path = dependencies/ShitRenderer
+	url = https://github.com/rymwf/ShitRenderer
+[submodule "assets/glTF-Sample-Models"]
+	path = assets/glTF-Sample-Models
+	url = https://github.com/KhronosGroup/glTF-Sample-Models
